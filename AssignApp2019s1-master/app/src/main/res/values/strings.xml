@@ -1,0 +1,23 @@
+<!--Qingzheng Xu-->
+<!--u6174243-->
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="game_start">Game Start</string>
+    <string name="help">Help</string>
+    <string name="back">X</string>
+    <string name="U">U</string>
+    <string name="D">D</string>
+    <string name="L">L</string>
+    <string name="R">R</string>
+    <string name="easy_mode">Easy Mode</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="hard_mode">Hard Mode</string>
+    <string name="restart">Restart</string>
+    <string name="menu">Menu</string>
+    <string name="instruction">
+        This is the classical game Snake.\n\n
+        In this game, a player need to control the snake to eat beans.\n\n
+        Choose your prefer mode, use the direction button to control your snake and eat more beans!\n\n
+        Never knock into the wall or eat yourself!
+    </string>
+</resources>
